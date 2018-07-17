@@ -12,6 +12,6 @@ NTC	KEYWORD1
 # Methods and Functions (KEYWORD2)
 ###########################################
 
-readTemperature KEYWORD2
+readTemperature	KEYWORD2
 
 
